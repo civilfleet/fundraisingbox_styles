@@ -1,3 +1,11 @@
 #donate-button {
   display:none;
 }
+
+.progressbar-done {
+  background: #2f47bd !important;
+}
+
+.progressbar {
+  background: #ffd500 !important;
+}
